@@ -21,7 +21,7 @@ Credentials *(passwords set at first boot)*
 -------------------------------------------
 
 -  Webmin, SSH, MySQL, phpMyAdmin: username **root**
--  EspoCRM: username **admin**
+-  EspoCRM: username **admin**, password **turnkey**
 
 
 .. _EspoCRM: http://www.espocrm.com/
